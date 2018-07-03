@@ -2,7 +2,7 @@
   display: none;
 }
 
-#wall < second-child {
+#wall > #tag-2 {
   display: none;
 }
 
